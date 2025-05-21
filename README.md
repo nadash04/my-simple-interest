@@ -1,8 +1,8 @@
-# my-simple-interest
+# my-simple-interes
 
 This project is a simple bash script to calculate Simple Interest.
 
-to run the script:
+To run the script:
 
 ```bash
 bash simple-interest.sh
