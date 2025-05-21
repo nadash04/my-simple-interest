@@ -9,4 +9,5 @@ read time
 
 simple_interest=$(echo "$principal * $rate * $time" | bc -l)
 
-echo "Simple Interest is: $simple_interest"
+echo "Simple Interest is: $simple_interest"  -
+    
